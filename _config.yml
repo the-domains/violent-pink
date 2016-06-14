@@ -1,0 +1,28 @@
+name: violent pink
+favicon: null
+layout_spectrum: 0.6382871109526604
+typography_spectrum: 0.3193820316810161
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6279059110675007
+  lightness: 0.10990084777586162
+  saturation: 0.5579443739261478
+  rhythmicContrast: 0.6455636520404369
+purpose: []
